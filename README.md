@@ -1,1 +1,1 @@
-トラハックさんの Nextjs 入門参照
+Next.js 公式 tutorial typescript 化まで
